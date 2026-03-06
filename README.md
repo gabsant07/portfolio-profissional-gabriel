@@ -234,7 +234,7 @@ portfolio-profissional/
 
 | Foto | Nome | Contato |
 |------|------|---------|
-| <img src="https://avatars.githubusercontent.com/u/placeholder" width="100"> | **Lara Andrade Carvalho** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/LaraCarvalho00) |
+| <img src="https://avatars.githubusercontent.com/u/placeholder" width="100"> | **Gabriel Peçanha Santiago** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/LaraCarvalho00) |
 
 ---
 
