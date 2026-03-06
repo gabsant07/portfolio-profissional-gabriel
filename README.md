@@ -1,7 +1,7 @@
-# 🏷️ Portfólio Profissional - Lara Carvalho 👩‍💻
+# 🏷️ Portfólio Profissional - Gabriel Santiago 👩‍💻
 
 > [!NOTE]
-> Este projeto é o desenvolvimento do meu portfólio profissional web. Ele consolida minhas experiências atuando como Product Owner com foco em Inteligência Artificial Generativa, meus desenvolvimentos acadêmicos e meus empreendimentos paralelos. O objetivo é criar uma vitrine tecnológica moderna e responsiva que demonstre minha aptidão para atuar na área de tecnologia e dados.
+> Este projeto é o desenvolvimento do meu portfólio profissional web. Ele consolida minhas experiências atuando como analista de TI com foco em Infraestrutura (Telefonia e Redes), meus desenvolvimentos acadêmicos e meus empreendimentos paralelos. O objetivo é criar uma vitrine tecnológica moderna e responsiva que demonstre minha aptidão para atuar na área de tecnologia e dados.
 
 ---
 
