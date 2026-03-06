@@ -1,16 +1,16 @@
 export default function Experiencias() {
   const experiencias = [
     {
-      empresa: "Atuação em Produto & IA Generativa",
-      cargo: "Product Owner / Especialista em IA",
+      empresa: "Atuação em Infraestutura de TI",
+      cargo: "Estagiário em redes/servidores",
       periodo: "Atualmente",
-      descricao: "Liderança de produtos com foco em Inteligência Artificial Generativa. Desenvolvimento ativo na plataforma IBM Watson, análise de dados conversacionais utilizando Python e exploração prática de Large Language Models (LLMs). Condução de projetos estratégicos focados em precificação, market insights e roadmap de novas funcionalidades de IA, como os projetos 'Mapa de Calor' e 'Estranho no Ninho'."
+      descricao: "Experiência com gestão de terceiros, controle e administração de telefonia (assim como controle de estoque e envio de aparelhos fixos e móveis), suporte para correção de erros de instalação do primeiro nível, validação de links de internet, configuração de acesso ao Wifi, configuração de switch, criação e exclusão de usuários para acesso à VDI e instalação de certificados digitais.."
     },
     {
-      empresa: "4 Laços Paperie",
-      cargo: "Co-fundadora & Estrategista de Negócios",
+      empresa: "Banco Mercantil",
+      cargo: "Estagiário Infra TI",
       periodo: "Jan 2026 - Presente",
-      descricao: "Gestão estratégica, estruturação de e-commerce e alinhamento de vendas multiplataforma (Shopee, Mercado Livre e TikTok Shop) para uma loja online de papelaria criativa. Responsável direta pela criação do plano de negócios e pela identidade visual da marca."
+      descricao: "Experiência com gestão de terceiros, controle e administração de telefonia (assim como controle de estoque e envio de aparelhos fixos e móveis), suporte para correção de erros de instalação do primeiro nível, validação de links de internet, configuração de acesso ao Wifi, configuração de switch, criação e exclusão de usuários para acesso à VDI e instalação de certificados digitais."
     },
     {
       empresa: "Pontifícia Universidade Católica (PUC-Minas)",

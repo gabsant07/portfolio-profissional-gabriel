@@ -51,7 +51,7 @@ function App() {
         {/* Cabeçalho de Navegação */}
         <header className="bg-slate-900 dark:bg-slate-950 text-white p-5 shadow-lg">
           <nav className="container mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
-            <h1 className="text-2xl font-bold tracking-widest">LARA CARVALHO</h1>
+            <h1 className="text-2xl font-bold tracking-widest">GABRIEL SANTIAGO</h1>
             <div className="flex items-center gap-6">
               <ul className="flex gap-4 sm:gap-6 font-medium text-sm sm:text-base">
                 <li><Link to="/" className="hover:text-blue-400 transition-colors">Home</Link></li>
@@ -84,7 +84,7 @@ function App() {
 
         {/* Rodapé */}
         <footer className="bg-slate-900 dark:bg-slate-950 text-gray-400 text-center p-6 mt-auto">
-          <p>© 2026 Lara Andrade Carvalho. Desenvolvido para o Lab de Eng. de Software.</p>
+          <p>© 2026 GABRIEL PEÇANHA SANTIAGO. Desenvolvido para o Lab de Eng. de Software.</p>
         </footer>
 
       </div>

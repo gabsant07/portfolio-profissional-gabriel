@@ -39,14 +39,14 @@ export default function Contato() {
           <div>
             <h3 className="text-2xl font-bold text-slate-800 dark:text-white mb-4">Informações de Contato</h3>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              Estou sempre aberta a discutir novos projetos de Produto, oportunidades na área de Inteligência Artificial ou parcerias estratégicas. Atualmente baseada em Belo Horizonte, mas disponível para conexões remotas.
+              Estou sempre disposto a discutir novos projetos de Infraestutura, oportunidades na área de redes e servidores. Atualmente baseada em Belo Horizonte, mas disponível para conexões remotas.
             </p>
           </div>
 
           <div className="space-y-4">
             <a href="mailto:lara.carvalho@email.com" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Mail size={24} className="text-blue-600 dark:text-blue-400"/></div>
-              <span className="font-medium">lara.carvalho@email.com</span>
+              <span className="font-medium">gabrielsnti2002@email.com</span>
             </a>
             <a href="https://linkedin.com/in/seu-perfil" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Linkedin size={24} className="text-blue-600 dark:text-blue-400"/></div>
@@ -54,7 +54,7 @@ export default function Contato() {
             </a>
             <a href="https://github.com/LaraCarvalho00" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Github size={24} className="text-blue-600 dark:text-blue-400"/></div>
-              <span className="font-medium">GitHub /LaraCarvalho00</span>
+              <span className="font-medium">GitHub /gabsant07</span>
             </a>
             <a href="https://wa.me/5531999999999" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><MessageCircle size={24} className="text-blue-600 dark:text-blue-400"/></div>

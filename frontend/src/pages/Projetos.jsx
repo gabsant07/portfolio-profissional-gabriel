@@ -3,9 +3,9 @@ import { Briefcase, Code, GraduationCap } from 'lucide-react';
 export default function Projetos() {
   const projetos = [
     {
-      nome: "E-commerce: 4 Laços Paperie",
+      nome: "Banco Mercantil",
       data: "Jan 2026 - Presente",
-      descricao: "Criação de identidade visual e estruturação de e-commerce multiplataforma (Shopee, Mercado Livre, TikTok Shop) para papelaria criativa.",
+      descricao: "Infraestrutura de TI e Telecom",
       techs: ["Estratégia", "Negócios", "Design Visual"],
       link: "#",
       icone: <Briefcase size={24} className="text-white" />,
