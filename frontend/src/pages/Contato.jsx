@@ -44,7 +44,7 @@ export default function Contato() {
           </div>
 
           <div className="space-y-4">
-            <a href="mailto:lara.carvalho@email.com" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
+            <a href="mailto:gabrielsnti2002@email.com" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Mail size={24} className="text-blue-600 dark:text-blue-400"/></div>
               <span className="font-medium">gabrielsnti2002@email.com</span>
             </a>
@@ -52,7 +52,7 @@ export default function Contato() {
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Linkedin size={24} className="text-blue-600 dark:text-blue-400"/></div>
               <span className="font-medium">LinkedIn Profile</span>
             </a>
-            <a href="https://github.com/LaraCarvalho00" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
+            <a href="https://github.com/gabsant07" target="_blank" rel="noreferrer" className="flex items-center gap-4 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition">
               <div className="bg-blue-100 dark:bg-blue-900/50 p-3 rounded-full"><Github size={24} className="text-blue-600 dark:text-blue-400"/></div>
               <span className="font-medium">GitHub /gabsant07</span>
             </a>
@@ -74,7 +74,7 @@ export default function Contato() {
           <form ref={form} onSubmit={sendEmail} className="space-y-4">
             <div>
               <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Seu Nome</label>
-              <input type="text" name="user_name" required className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent outline-none transition" placeholder="Lara Carvalho" />
+              <input type="text" name="user_name" required className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent outline-none transition" placeholder="Gabriel Santiago" />
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">Seu E-mail</label>

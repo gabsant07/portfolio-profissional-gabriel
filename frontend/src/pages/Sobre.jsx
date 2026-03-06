@@ -21,7 +21,7 @@ export default function Sobre() {
         {PROFILE_PHOTO ? (
           <img 
             src={PROFILE_PHOTO} 
-            alt="Lara Carvalho" 
+            alt="Gabriel Santiago" 
             className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-blue-600 shadow-lg flex-shrink-0"
           />
         ) : (
